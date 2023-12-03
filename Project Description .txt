@@ -1,0 +1,15 @@
+Excited to share a recent project 
+_____________________
+◾ IDEA of project:
+There are 6 7-segments works as a timer clock with two button first one is for increase hours by 1 and 
+the second button is for increase minutes by 1 and reset the seconds value to 0 
+7448 BCD to 7-segment decoder used in this project 
+____________________
+
+◾ Hardware include:
+-PIC18F4620 
+-7-segment
+-Button(avtive high).
+-Resistor
+-7448 decoder
+
